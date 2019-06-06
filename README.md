@@ -1,5 +1,10 @@
 # Instrucciones de Uso 
 
+# **Notas importantes**
+
+1. No cambies el nombre a ninguno de los archivos 
+2. No cambies el nombre a ninguna tabla o query. 
+
 
 # Descripccion de archivos: 
 1. inventario_general.accdb
