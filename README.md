@@ -8,6 +8,7 @@
     1. Este archivo contiene todos los formulares y queries que hacen manejable toda la informacion. Este archivo tambien es importante respaldar, sin embargo toda la informacion se encuentra en el archivo de inventario_general. 
 
 # Usando el programa por primera vez. 
-1. Primero deberas bajar tods los archivos 
+1. Primero deberas bajar tods los archivos utilizando el boton verde que dice **"Clone or doenload"** y luego **"Download ZIP"**
+
 
 
